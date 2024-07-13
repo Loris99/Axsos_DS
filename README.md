@@ -1,1 +1,1 @@
-# Axsos_DS
+# Study and predicts sales
